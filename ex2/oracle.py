@@ -13,7 +13,7 @@ def print_database_status(
     elif matrix_mode == "production":
         print("Database: Connected to production instance")
     else:
-        print("Database: Mode unknown; connection not selected")
+        print("Database: Mode unknown - connection not selected")
 
 
 def print_zion_status(
