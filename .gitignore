@@ -5,4 +5,4 @@ matrix_env/
 
 *.lock
 *.png
-
+*.json
